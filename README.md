@@ -13,7 +13,8 @@
 ---
 
 ### 🛠️ Skills
-- **Languages:** HTML, CSS, JavaScript, Python 
+- **Languages:** JavaScript, Python
+- **Frontend:** HTML, CSS,
 - **Backend:** Node.js, Express.js  
 - **Database:** MongoDB  
 - **Other:** Git, GitHub,
