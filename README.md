@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Piyush 👋
 
-<!--
-**PiyushGaywal/PiyushGaywal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student | 💻 Web Development & Backend Enthusiast | 📊 Exploring Forex Trading
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+- 🌱 Currently working with **Node.js, MongoDB, and backend development**  
+- 📚 Practicing **JavaScript & problem-solving**  
+- 🔍 Interested in **Blockchain, Trading, and Web Projects**  
+- 🎯 Goal: To become a **Full-Stack Developer**  
+
+---
+
+### 🛠️ Skills
+- **Languages:** HTML, CSS, JavaScript, Python 
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB  
+- **Other:** Git, GitHub,
+
+---
+
+### 🌐 Connect with Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/piyushgaywal/)  
+- 📧 Email: gaywalpiyush2@gmail.com  
+- 🐦 [Twitter](https://x.com/PiyushGaywal)
+- 📸 [Instagram](https://www.instagram.com/piyush.gaywal/)  
+
+---
+
+✨ *Thanks for visiting my profile!*
