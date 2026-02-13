@@ -2,16 +2,14 @@
 <h3 align="center">BCA Student | Full Stack Developer | Backend Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;Node.js+%26+MongoDB+Developer;Building+Real+World+Projects;Exploring+Forex+%26+Blockchain" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Forex+Trader;Developer;Learner" />
 </p>
 
 ---
-
 ## 👨‍💻 About Me
 - 🌱 Working with **Node.js, MongoDB, Express**
 - 📚 Practicing **JavaScript & Problem Solving**
 - 🔍 Interested in **Blockchain & Trading**
-- 🎯 Goal: Becoming a **High-Level Full Stack Engineer**
 
 ---
 
